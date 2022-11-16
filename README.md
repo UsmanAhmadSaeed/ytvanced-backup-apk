@@ -1,12 +1,20 @@
 # YouTube Vanced
-YouTube Vanced &amp; Vanced MicroG Direct APK Install without Vanced Manager
+YouTube Vanced &amp; Vanced MicroG APK install without Manager
 
-Credits YouTube Vanced : [Vanced Team](https://github.com/TeamVanced)
+<a href="https://github.com/cuynu/ytvanced#download">
+<img alt="vanced" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
+</a>
+
+Credits YouTube Vanced : [Vanced Team](https://vancedapp.com)
 
 Forks not required, this repository will stay here forever.
 
+Worry about malware or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+
 Download counts : 
-[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced/releases)
+[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=github)](https://github.com/cuynu/ytvanced#download)
+
+**If you like this continuation of YouTube Vanced as Unofficial builds by me, please give me 1 star for this repository. Thanks you very much!**
 ____________________________________________________
 
  
@@ -14,105 +22,180 @@ ____________________________________________________
 
 (Không có Vanced MicroG, YouTube Vanced sẽ không chạy, vui lòng cài đặt Vanced MicroG bên dưới.)
 
-- [Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)
+- **[Common problems and solution](https://github.com/cuynu/ytvanced#common-problem-and-solution)**
+- **[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
+
+- YouTube Vanced Features : [See on Wikipedia](https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/YouTube_Vanced&ved=2ahUKEwiHoPm3ppH7AhXYEnAKHeYsDboQFnoECAsQBQ&usg=AOvVaw2FfXMQmEyM6VQM9MKVbS6Q)
+- **[Can't install on Xiaomi MIUI devices?, See how to fix that with workaround!](https://github.com/cuynu/ytvanced#installation-for-miui)**
 - Architecture : Universal (arm64-v8a,armeabi-v7a,x86,x86_64)
 - Support all language supported by official YouTube client.
-
 ____________________________________________________
 
 # Download 
-Minimum Android version : 6.0.0 
+Minimum Android version : 8 (Oreo) for version 17.41.34 and above,
+6.0.0 for version [17.33.42](https://github.com/cuynu/ytvanced/releases/tag/17.33.42) or lower.
 
-[Download unofficial YouTube Vanced 17.33.42](https://github.com/cuynu/ytvanced/releases/17.33.42)
+**Vanced MicroG** **(REQUIRED to use YouTube Vanced non-root version, not needed for root version)**
 
-[Download YouTube Vanced 17.03.38 Black](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube.Vanced_17.03.38_Black.apk)
-
-[Download YouTube Vanced 17.03.38 Dark](https://github.com/cuynu/ytvanced/releases/download/17.03.38/YouTube_Vanced_17.03.38_Dark.apk)
-
-[Download YouTube Music Vanced v4.64.51](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Youtube_Music_v4.64.51.apk)
+[Download Vanced MicroG 0.2.25.224113](https://github.com/cuynu/ytvanced/releases/download/17.41.34/Vanced.MicroG.v0.2.25.224113.apk)
 
 [Download Vanced MicroG 0.2.24.220220](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.24.220220.apk)
 
-Beta Vanced MicroG (Recommended)
+**YouTube Vanced Non-root** : 
 
-[Download Vanced MicroG 0.2.25.223212](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
+**Unofficial version (Recommended)** :
 
-For Root user, please use YouTube Vanced Magisk Module below if you have Magisk : 
+Latest version is : 17.43.36
 
-[Download Magisk Module YouTube Vanced Root 17.33.42 Dark](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Root_MagiskModules.zip)
+[Download YouTube Vanced Unofficial version 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced.v17.43.36_Black_Universal.apk)
 
-[Download Magisk Module YouTube Vanced Root 17.33.42 Black](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Black_Root_MagiskModules.zip)
+[Download YouTube Vanced Unofficial version 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.42.33 Black](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced.v17.42.33_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.42.33 Dark](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced.v17.42.33_Dark_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_Universal.apk)
+
+[Download YouTube Vanced Unofficial version 17.41.34 Dark](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Dark_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.31.50](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Music.Vanced_v5.31.50_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.28.51](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_Universal.apk)
+
+[Download YouTube Music Vanced Unofficial version 5.28.51 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_2arch.apk)
+
+
+**YouTube Vanced Root [Magisk Module]**
+Before install this module, uninstall YouTube first.
+
+[Download Magisk Module YouTube Vanced 17.43.36 Black](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Black_MagiskModules.zip)
+
+[Download Magisk Module YouTube Vanced 17.43.36 Dark](https://github.com/cuynu/ytvanced/releases/download/17.43.36/YouTube.Vanced_v17.43.36_Dark_MagiskModules.zip)
+
+[Download Magisk Module YouTube Vanced 17.42.33 Dark](https://github.com/cuynu/ytvanced/releases/download/17.42.33/YouTube.Vanced_v17.42.33_Dark_MagiskModules.zip)
+
+[Download Magisk Module YouTube Vanced 17.41.34 Black](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip)
+
+
+
+## YouTube Vanced old/outdated version
+
+You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON THESE VERSION.
+
+[Download YouTube Vanced Unofficial 17.33.42](https://github.com/cuynu/ytvanced/wiki/17.33.42)
+
+[Download YouTube Vanced Unofficial 17.28.34](https://github.com/cuynu/ytvanced/wiki/17.28.34)
+
+[Download YouTube Vanced Official 17.03.38](https://github.com/cuynu/ytvanced/wiki/17.03.38)
+
+[Download YouTube Music Vanced Unofficial 5.16.51](https://github.com/cuynu/ytvanced/wiki/5.16.51)
+
+[Download YouTube Music Vanced Official 4.64.51](https://github.com/cuynu/ytvanced/wiki/4.64.51)
+
+[Download old Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
+____________________________________________________
+
+## Discussion 
+ [Telegram Discussion](https://t.me/ytvanced1)
+
+ [Discussion on GitHub (English)](https://github.com/cuynu/ytvanced/discussions)
+
+## Translation YouTube Vanced
+
+You can contributor translate YouTube Vanced to your language by create pull requests to [ReVanced Patches inotia00](https://github.com/inotia00/revanced-patches/pulls)
+. Your translation will change in next version if your pull request has merged by inotia00, strings will change from ReVanced to Vanced automatically.
+
+This is temporary translate site, i will make own later!
+
+### Open source
+YouTube client for Android isn't open source, YouTube Vanced are is closed source before, but YouTube ReVanced patches is open source, my YouTube Vanced build version newer than 17.41.xx are based on ReVanced patches so you can build using ReVanced patches!
+
+## VirusTotal scan results and File Hashs
+
+**Because all my YouTube Vanced apk files are signed with debug keys, so some security vendor will flag it as malicious. Don't worry about this, its only a normal problem!**
+
+## [View YouTube Vanced/YouTube Music Vanced/Vanced MicroG VirusTotal Scan results/File Hash](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+____________________________________________________
+
+## Installation for MIUI
+[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi and MIUI Optimization, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) and turn off MIUI Optimization on Developer options then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
 
 ____________________________________________________
 
-# Issues
-If you have issue or problem when using YouTube Vanced downloaded from my GitHub repository, feel free create issue on my GitHub repository [here.](https://github.com/cuynu/ytvanced/issues)
-____________________________________________________
-
-# VirusTotal scan results and MD5 Hash
-
-YouTube_Vanced_v17.03.38_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/262ce8ea6d6eb04be448881aa2e99a627f1ff1b208f882ea6df6707697bfdf0c/summary)
-
-
-YouTube_Vanced_v17.03.38_Dark.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2defe8f18374ec4f6c907869e4c09aeb515046d6b3d518d5eb48d3fcdb41dbad/summary)
-
-
-YouTube_Music_v4.64.51.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/47a8398198f1a5266a28dfcb6281d2b75a1146e0fe4f6d1bd878586d95752445/summary)
-
-
-Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
-
-[View MD5 hash file checksum](https://github.com/cuynu/ytvanced/wiki/MD5-Hash)
-
-____________________________________________________
-
-# Installation for MIUI
-[Some Xiaomi device that running MIUI may not be able to install due to security check by Xiaomi, you can workaround that by install [Package Installer (Google) from APKMirror (Select version depend on your Android version)](https://www.apkmirror.com/apk/google-inc/package-installer/) then install YouTube Vanced client with Package Installer (Google) instead of default Xiaomi APK installer.]
-
-____________________________________________________
-
-# Important Information from Vanced
+## Important Information from Vanced
 
 Thông báo từ Vanced / Important information from Vanced
 ![Preview](https://files.catbox.moe/ricm16.jpg)
 
 ____________________________________________________
 
-# Changelog [(see releases for full changelog)](https://github.com/cuynu/ytvanced/releases)
-Vanced (v17.03.38)
-Changelog:
+**[Changelogs and known issues](https://github.com/cuynu/ytvanced/releases)**
 
-Main changes:
-Bumped base
+## Common problem and solution
 
-ReturnYouTubeDislike integration (NOT FOR SHORTS ALSO SEE KNOWN ISSUES)
+If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
 
-Channel whitelisting for video ads
+**No internet connection:**
+- Remove your account from Vanced MicroG (If have and try again)
+- Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
+- Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
+- Allow this warning 
+![miui](https://github.com/cuynu/archive/releases/download/archive/IMG_20221115_120709.jpg)
 
-Improved ad-blocking
 
-Comments location (alpha) has been removed (because Google pushed new comments to tablet UI)
+**App not installed :**
+- Free up some storage space and try again
+- Uninstall official YouTube Vanced client downloaded from Vanced Manager then reinstall. Reason : Mismatch signature.
+- Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
 
-Added tablet style under swipe controls for partially disabling recommended videos in landscape mode and other tablet styled UI
+**Crash when opening:**
+- Install or reinstall Vanced MicroG 
+- Turn off battery optimization for Vanced MicroG
+- Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
+- Wipe app data and cache
+- Reinstall YouTube Vanced client
 
-Added support for themed icon (Android 13+) Sponsorblock changes:
+**There was a problem parsing the package:**
+- Check your Android version, Make sure your current Android version meet minimum required Android version.
+- Redownload APK file.
 
-added support for channel whitelisting (see the "Channel whitelisting" toggle in sb settings)
+## Screenshots
 
-added support for setting the minimum segment duration
+Preview screenshots of YouTube Vanced (captured on 17.43.36) :
 
-added the filler category
+Homepage:
 
-replaced the "Change colors" button with a text field inside of each category's setting
-403 messages (warns, locked video/segment) will now be properly displayed
-added an option to enable SB browser button.
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="1" src="https://github.com/cuynu/archive/releases/download/archive/preview1.png" width="150" height="300" />
+</a>
 
-Option to change the API URL KNOWN ISSUES:
-On new action bar layouts(server-sided feature), the new toggles won't work. (Around 15% of users are currently affected by it)
-all the usual previous issues relating to Chromecast, codec override, swipe controls bug while scrolling in landscape mode and swipe down gesture to refresh.
+Vanced settings (In YouTube settings):
 
-PLANNED CHANGES FOR NEXT RELEASE
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="4" src="https://github.com/cuynu/archive/releases/download/archive/settings.png" width="150" height="300" />
+</a>
 
-Option to make SponsorBlock submitting and voting buttons appear under the video
-make RYD work in all layouts
-add more ad whitelist options such as viewing the entire list of whitelisted channels and a global video ads toggle
+Picture-in-Picture: 
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="a" src="https://github.com/cuynu/archive/releases/download/archive/preview5.png" width="150" height="300" />
+</a>
+
+Play in background:
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="b" src="https://github.com/cuynu/archive/releases/download/archive/preview6.png" width="150" height="300" />
+</a>
+
+YouTube Shorts:
+
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="2" src="https://github.com/cuynu/archive/releases/download/archive/preview2.png" width="150" height="300" />
+</a>
+
+Video playback new layout:
+<a href="https://github.com/cuynu/ytvanced">
+<img alt="3" src="https://github.com/cuynu/archive/releases/download/archive/preview3.png" width="150" height="300" />
+</a>
+
